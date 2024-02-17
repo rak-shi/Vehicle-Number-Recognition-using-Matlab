@@ -6,3 +6,4 @@ Plate region extraction,
 Segmentation of character in the extracted number plate,
 Character recognition,
 Result.
+![image](https://github.com/rak-shi/Vehicle-Number-Recognition-using-Matlab/assets/122455761/355b834e-09a3-4f61-9ffd-71ced877a873)
